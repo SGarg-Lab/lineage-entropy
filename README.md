@@ -33,4 +33,4 @@ Welcome to the "lineage-entropy" GitHub repository! We are so excited to have yo
 
 If you encounter any problems or have any question, please contact Tee Udomlumleart (teeu@mit.edu). 
 
-Created and maintained by Tee Udomlumleart. Last update 5/11/2021. 
+Created and maintained by Tee Udomlumleart. Last update 6/18/2021. 
